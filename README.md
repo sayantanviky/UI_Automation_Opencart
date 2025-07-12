@@ -85,8 +85,9 @@ This framework can be easily integrated with Jenkins, GitHub Actions, or any CI/
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## Author
-Name: Sayantan Mukherjee
-GitHub: https://github.com/sayantanviky
-LinkedIn: https://www.linkedin.com/in/sayantan-mukherjee-9975b3b7
+- Name: Sayantan Mukherjee
+- GitHub: https://github.com/sayantanviky
+- LinkedIn: https://www.linkedin.com/in/sayantan-mukherjee-9975b3b7
+- YouTube: @sayantanmukherjee8294
 
 
